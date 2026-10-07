@@ -1,0 +1,10 @@
+type,key,value
+SLA,Low,72
+SLA,Normal,48
+SLA,High,24
+SLA,Urgent,8
+OWNER,Finance,finance@example.com
+OWNER,Operations,operations@example.com
+OWNER,DEFAULT,admin@example.com
+SETTING,notifications_enabled,false
+SETTING,due_soon_hours,4
